@@ -1,3 +1,3 @@
 # Base-Defense-Game
 
-A base defense game prototype, that consists of just one level. 
+A Unity base defense game prototype project, that consists of just one level. 
